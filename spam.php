@@ -12,9 +12,9 @@ $banner = "\e[36;1m
                                                                                  
 [#] Yapulsa Spam Sms [#]    
                                    
-Author : Revan AR                  
-Team   : IndoSec                   
-Github : https//github.com/revan-ar/\n\n\e[0;1m";
+Author : Al                  
+Team   : GakPunya                   
+Github : https//github.com/bonapartez99/\n\n\e[0;1m";
                                                                                  
                                                                                                                                                                  
 sleep(3);
